@@ -1,0 +1,808 @@
+{
+  "id": "b7d6cf52-b40a-4b39-a769-637a299802e9",
+  "parkingSpaceName": "Building 3",
+  "geoLocation": {
+    "latitude": 47.6470747590065,
+    "longitude": -122.137823402882
+  },
+  "nearByBuildings": [],
+  "regionId": "10f15891-490b-4d84-876d-c058108ebb43",
+  "status": "Active",
+  "spaceType": "Indoor",
+  "parkingFloors": [
+    {
+      "id": "d9a20bbe-f931-4cde-b3e1-4d69361e2062",
+      "parkingFloorName": "1",
+      "parkingZone": [
+        {
+          "id": "e692d36d-5eea-475a-ae8e-d28497449ad0",
+          "parkingZoneName": "TestZone1",
+          "parkingRow": [
+            {
+              "id": "d9a20bbe-f931-4cde-b3e1-4d69361e2062_e692d36d-5eea-475a-ae8e-d28497449ad0_4",
+              "parkingRowName": "4",
+              "bayTypeOccupancy": [
+                {
+                  "bayType": "General",
+                  "totalBay": 1,
+                  "occupiedBay": 1
+                }
+              ],
+              "baySizeOccupancy": [
+                {
+                  "baySize": "Compact",
+                  "totalBay": 1,
+                  "occupiedBay": 1
+                }
+              ],
+              "bayCapabilityOccupancy": [],
+              "totalBay": 1,
+              "occupiedBay": 1
+            }
+          ],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 1,
+              "occupiedBay": 1
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 1,
+              "occupiedBay": 1
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 1,
+          "occupiedBay": 1
+        },
+        {
+          "id": "f1f369a9-bb38-458f-a43b-94e59863d405",
+          "parkingZoneName": "ZoneA",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 70,
+              "occupiedBay": 13
+            },
+            {
+              "bayType": "Accessible",
+              "totalBay": 4,
+              "occupiedBay": 0
+            },
+            {
+              "bayType": "Carpool",
+              "totalBay": 6,
+              "occupiedBay": 1
+            },
+            {
+              "bayType": "Service",
+              "totalBay": 1,
+              "occupiedBay": 1
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 35,
+              "occupiedBay": 4
+            },
+            {
+              "baySize": "General",
+              "totalBay": 46,
+              "occupiedBay": 11
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 81,
+          "occupiedBay": 15
+        },
+        {
+          "id": "8bf3d771-c007-4f0e-a560-92af8162713a",
+          "parkingZoneName": "Zone B Floor 1",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "Carpool",
+              "totalBay": 2,
+              "occupiedBay": 0
+            },
+            {
+              "bayType": "General",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "General",
+              "totalBay": 2,
+              "occupiedBay": 0
+            },
+            {
+              "baySize": "Compact",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 3,
+          "occupiedBay": 0
+        },
+        {
+          "id": "4ec41bb3-2b9e-4968-94a4-6f849e328ac1",
+          "parkingZoneName": "Zone A Floor 1",
+          "parkingRow": [
+            {
+              "id": "d9a20bbe-f931-4cde-b3e1-4d69361e2062_4ec41bb3-2b9e-4968-94a4-6f849e328ac1_2",
+              "parkingRowName": "2",
+              "bayTypeOccupancy": [
+                {
+                  "bayType": "General",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "baySizeOccupancy": [
+                {
+                  "baySize": "Compact",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "bayCapabilityOccupancy": [],
+              "totalBay": 1,
+              "occupiedBay": 0
+            },
+            {
+              "id": "d9a20bbe-f931-4cde-b3e1-4d69361e2062_4ec41bb3-2b9e-4968-94a4-6f849e328ac1_4",
+              "parkingRowName": "4",
+              "bayTypeOccupancy": [
+                {
+                  "bayType": "General",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                },
+                {
+                  "bayType": "Carpool",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "baySizeOccupancy": [
+                {
+                  "baySize": "Compact",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                },
+                {
+                  "baySize": "General",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "bayCapabilityOccupancy": [],
+              "totalBay": 2,
+              "occupiedBay": 0
+            },
+            {
+              "id": "d9a20bbe-f931-4cde-b3e1-4d69361e2062_4ec41bb3-2b9e-4968-94a4-6f849e328ac1_15",
+              "parkingRowName": "15",
+              "bayTypeOccupancy": [
+                {
+                  "bayType": "General",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "baySizeOccupancy": [
+                {
+                  "baySize": "Compact",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "bayCapabilityOccupancy": [],
+              "totalBay": 1,
+              "occupiedBay": 0
+            },
+            {
+              "id": "d9a20bbe-f931-4cde-b3e1-4d69361e2062_4ec41bb3-2b9e-4968-94a4-6f849e328ac1_6",
+              "parkingRowName": "6",
+              "bayTypeOccupancy": [
+                {
+                  "bayType": "Carpool",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "baySizeOccupancy": [
+                {
+                  "baySize": "General",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "bayCapabilityOccupancy": [],
+              "totalBay": 1,
+              "occupiedBay": 0
+            },
+            {
+              "id": "d9a20bbe-f931-4cde-b3e1-4d69361e2062_4ec41bb3-2b9e-4968-94a4-6f849e328ac1_8",
+              "parkingRowName": "8",
+              "bayTypeOccupancy": [
+                {
+                  "bayType": "Carpool",
+                  "totalBay": 1,
+                  "occupiedBay": 1
+                }
+              ],
+              "baySizeOccupancy": [
+                {
+                  "baySize": "General",
+                  "totalBay": 1,
+                  "occupiedBay": 1
+                }
+              ],
+              "bayCapabilityOccupancy": [],
+              "totalBay": 1,
+              "occupiedBay": 1
+            },
+            {
+              "id": "d9a20bbe-f931-4cde-b3e1-4d69361e2062_4ec41bb3-2b9e-4968-94a4-6f849e328ac1_5",
+              "parkingRowName": "5",
+              "bayTypeOccupancy": [
+                {
+                  "bayType": "Carpool",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "baySizeOccupancy": [
+                {
+                  "baySize": "General",
+                  "totalBay": 1,
+                  "occupiedBay": 0
+                }
+              ],
+              "bayCapabilityOccupancy": [],
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 3,
+              "occupiedBay": 0
+            },
+            {
+              "bayType": "Carpool",
+              "totalBay": 4,
+              "occupiedBay": 1
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 3,
+              "occupiedBay": 0
+            },
+            {
+              "baySize": "General",
+              "totalBay": 4,
+              "occupiedBay": 1
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 7,
+          "occupiedBay": 1
+        }
+      ],
+      "bayTypeOccupancy": [
+        {
+          "bayType": "General",
+          "totalBay": 112,
+          "occupiedBay": 18
+        },
+        {
+          "bayType": "Carpool",
+          "totalBay": 15,
+          "occupiedBay": 3
+        },
+        {
+          "bayType": "Accessible",
+          "totalBay": 6,
+          "occupiedBay": 0
+        },
+        {
+          "bayType": "Service",
+          "totalBay": 1,
+          "occupiedBay": 1
+        }
+      ],
+      "baySizeOccupancy": [
+        {
+          "baySize": "Compact",
+          "totalBay": 61,
+          "occupiedBay": 7
+        },
+        {
+          "baySize": "General",
+          "totalBay": 73,
+          "occupiedBay": 15
+        }
+      ],
+      "bayCapabilityOccupancy": [],
+      "totalBay": 134,
+      "occupiedBay": 22
+    },
+    {
+      "id": "83d5ab25-66e5-415b-bebb-4fbe95aeeaa9",
+      "parkingFloorName": "2",
+      "parkingZone": [],
+      "bayTypeOccupancy": [
+        {
+          "bayType": "General",
+          "totalBay": 157,
+          "occupiedBay": 34
+        },
+        {
+          "bayType": "Accessible",
+          "totalBay": 1,
+          "occupiedBay": 0
+        }
+      ],
+      "baySizeOccupancy": [
+        {
+          "baySize": "Compact",
+          "totalBay": 67,
+          "occupiedBay": 19
+        },
+        {
+          "baySize": "General",
+          "totalBay": 91,
+          "occupiedBay": 15
+        }
+      ],
+      "bayCapabilityOccupancy": [],
+      "totalBay": 158,
+      "occupiedBay": 34
+    },
+    {
+      "id": "82e73c3f-f542-4653-aeb6-e21706477f9b",
+      "parkingFloorName": "3",
+      "parkingZone": [
+        {
+          "id": "920f9058-93a6-4f15-9d7b-771373882a9b",
+          "parkingZoneName": "Team Space",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 2,
+              "occupiedBay": 1
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 2,
+              "occupiedBay": 1
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 2,
+          "occupiedBay": 1
+        },
+        {
+          "id": "8926902b-3d26-461f-98a8-c849a2b1956c",
+          "parkingZoneName": "ABOT Tool",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 1,
+          "occupiedBay": 0
+        },
+        {
+          "id": "bcdbc022-02fa-43e5-8713-e98a0bbdbc7d",
+          "parkingZoneName": "Floor3",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 1,
+          "occupiedBay": 0
+        },
+        {
+          "id": "9cc12f71-b3a1-42ec-85c5-131c5975578f",
+          "parkingZoneName": "Space Core",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 1,
+          "occupiedBay": 0
+        }
+      ],
+      "bayTypeOccupancy": [
+        {
+          "bayType": "General",
+          "totalBay": 157,
+          "occupiedBay": 29
+        },
+        {
+          "bayType": "Accessible",
+          "totalBay": 1,
+          "occupiedBay": 0
+        }
+      ],
+      "baySizeOccupancy": [
+        {
+          "baySize": "Compact",
+          "totalBay": 68,
+          "occupiedBay": 13
+        },
+        {
+          "baySize": "General",
+          "totalBay": 90,
+          "occupiedBay": 16
+        }
+      ],
+      "bayCapabilityOccupancy": [],
+      "totalBay": 158,
+      "occupiedBay": 29
+    },
+    {
+      "id": "b5e4fea2-324d-40b4-bcef-c0207e4ee24f",
+      "parkingFloorName": "4",
+      "parkingZone": [
+        {
+          "id": "47fd7daf-5c64-4858-b902-bfe79939a006",
+          "parkingZoneName": "Floor4",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 1,
+              "occupiedBay": 1
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "General",
+              "totalBay": 1,
+              "occupiedBay": 1
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 1,
+          "occupiedBay": 1
+        }
+      ],
+      "bayTypeOccupancy": [
+        {
+          "bayType": "General",
+          "totalBay": 157,
+          "occupiedBay": 26
+        },
+        {
+          "bayType": "Accessible",
+          "totalBay": 1,
+          "occupiedBay": 0
+        }
+      ],
+      "baySizeOccupancy": [
+        {
+          "baySize": "General",
+          "totalBay": 92,
+          "occupiedBay": 13
+        },
+        {
+          "baySize": "Compact",
+          "totalBay": 66,
+          "occupiedBay": 13
+        }
+      ],
+      "bayCapabilityOccupancy": [],
+      "totalBay": 158,
+      "occupiedBay": 26
+    },
+    {
+      "id": "998abe52-dee4-4703-bd88-bf91e4ded1f1",
+      "parkingFloorName": "5",
+      "parkingZone": [],
+      "bayTypeOccupancy": [
+        {
+          "bayType": "General",
+          "totalBay": 6,
+          "occupiedBay": 0
+        }
+      ],
+      "baySizeOccupancy": [
+        {
+          "baySize": "General",
+          "totalBay": 6,
+          "occupiedBay": 0
+        }
+      ],
+      "bayCapabilityOccupancy": [],
+      "totalBay": 6,
+      "occupiedBay": 0
+    },
+    {
+      "id": "39cbb94a-9b58-41f2-837c-5198cc3d265e",
+      "parkingFloorName": "P1",
+      "parkingZone": [
+        {
+          "id": "1321e85d-8b65-4bc9-bf89-0c14cee076fb",
+          "parkingZoneName": "A",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 6,
+              "occupiedBay": 1
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 3,
+              "occupiedBay": 1
+            },
+            {
+              "baySize": "General",
+              "totalBay": 3,
+              "occupiedBay": 0
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 6,
+          "occupiedBay": 1
+        },
+        {
+          "id": "26e4665d-c6ac-43da-8112-02506c8f4276",
+          "parkingZoneName": "B",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 2,
+              "occupiedBay": 0
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "General",
+              "totalBay": 2,
+              "occupiedBay": 0
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 2,
+          "occupiedBay": 0
+        }
+      ],
+      "bayTypeOccupancy": [
+        {
+          "bayType": "General",
+          "totalBay": 157,
+          "occupiedBay": 29
+        },
+        {
+          "bayType": "Accessible",
+          "totalBay": 1,
+          "occupiedBay": 0
+        }
+      ],
+      "baySizeOccupancy": [
+        {
+          "baySize": "General",
+          "totalBay": 59,
+          "occupiedBay": 9
+        },
+        {
+          "baySize": "Compact",
+          "totalBay": 99,
+          "occupiedBay": 20
+        }
+      ],
+      "bayCapabilityOccupancy": [],
+      "totalBay": 158,
+      "occupiedBay": 29
+    },
+    {
+      "id": "62711c2b-a64e-4767-bcbb-9a559299aec2",
+      "parkingFloorName": "P2",
+      "parkingZone": [
+        {
+          "id": "b7dd8426-b347-40d5-a59c-9a2acf4a931b",
+          "parkingZoneName": "B",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 70,
+              "occupiedBay": 14
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "General",
+              "totalBay": 23,
+              "occupiedBay": 4
+            },
+            {
+              "baySize": "Compact",
+              "totalBay": 47,
+              "occupiedBay": 10
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 70,
+          "occupiedBay": 14
+        },
+        {
+          "id": "0088ad5d-0927-42ba-a86b-c8eb6e551c31",
+          "parkingZoneName": "A",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 58,
+              "occupiedBay": 7
+            },
+            {
+              "bayType": "Accessible",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "General",
+              "totalBay": 24,
+              "occupiedBay": 2
+            },
+            {
+              "baySize": "Compact",
+              "totalBay": 35,
+              "occupiedBay": 5
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 59,
+          "occupiedBay": 7
+        },
+        {
+          "id": "f8fa4cbd-3bfe-4cd8-b908-faed8eeaf25a",
+          "parkingZoneName": "test",
+          "parkingRow": [],
+          "bayTypeOccupancy": [
+            {
+              "bayType": "General",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "baySizeOccupancy": [
+            {
+              "baySize": "Compact",
+              "totalBay": 1,
+              "occupiedBay": 0
+            }
+          ],
+          "bayCapabilityOccupancy": [],
+          "totalBay": 1,
+          "occupiedBay": 0
+        }
+      ],
+      "bayTypeOccupancy": [
+        {
+          "bayType": "General",
+          "totalBay": 129,
+          "occupiedBay": 21
+        },
+        {
+          "bayType": "Accessible",
+          "totalBay": 1,
+          "occupiedBay": 0
+        }
+      ],
+      "baySizeOccupancy": [
+        {
+          "baySize": "General",
+          "totalBay": 47,
+          "occupiedBay": 6
+        },
+        {
+          "baySize": "Compact",
+          "totalBay": 83,
+          "occupiedBay": 15
+        }
+      ],
+      "bayCapabilityOccupancy": [],
+      "totalBay": 130,
+      "occupiedBay": 21
+    }
+  ],
+  "category": [ "Compact", "General", "Carpool", "Accessible", "Service" ],
+  "bayTypeOccupancy": [
+    {
+      "bayType": "General",
+      "totalBay": 875,
+      "occupiedBay": 157
+    },
+    {
+      "bayType": "Carpool",
+      "totalBay": 15,
+      "occupiedBay": 3
+    },
+    {
+      "bayType": "Accessible",
+      "totalBay": 11,
+      "occupiedBay": 0
+    },
+    {
+      "bayType": "Service",
+      "totalBay": 1,
+      "occupiedBay": 1
+    }
+  ],
+  "baySizeOccupancy": [
+    {
+      "baySize": "Compact",
+      "totalBay": 444,
+      "occupiedBay": 87
+    },
+    {
+      "baySize": "General",
+      "totalBay": 458,
+      "occupiedBay": 74
+    }
+  ],
+  "bayCapabilityOccupancy": [],
+  "totalBay": 902,
+  "occupiedBay": 161
+}
